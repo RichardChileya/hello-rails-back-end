@@ -97,7 +97,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](not net available)
+- [Link to my FrontEnd Project](https://github.com/RichardChileya/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
